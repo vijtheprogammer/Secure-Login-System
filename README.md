@@ -1,4 +1,4 @@
-# Secure-Login-System
+# Secure Login System
 
 This project consists of three Python scripts: samples.py, server.py, and client.py, which collectively facilitate a simple username and password authentication system using a SQLite database and client-server architecture.
 
